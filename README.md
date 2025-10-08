@@ -48,6 +48,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Gunjan0324/Gunjan0324/output/snake.svg" alt="Snake animation" />
+## 🐍 Snake Game Contribution Graph
+![Snake animation](https://github.com/Gunjan0324/Gunjan0324/blob/output/github-snake.svg)
 
 ###
