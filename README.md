@@ -86,17 +86,7 @@
 
 ###
 
-## 💻 Coding Activity
-<div align="center">
-  <!-- You can add WakaTime later -->
-  <a href="https://wakatime.com/@Gunjan0324">
-    <img src="https://wakatime.com/badge/user/Gunjan0324.svg" alt="WakaTime" />
-  </a>
-  <br>
-  *"Code never lies, comments sometimes do."* - Ron Jeffries
-</div>
 
-###
 
 ## 💫 Development Philosophy
 <div align="center">
